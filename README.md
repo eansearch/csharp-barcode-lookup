@@ -94,5 +94,5 @@ License
 This library is licensed under the MIT License. See the LICENSE file for details.
 Acknowledgments
 
-This library uses the EAN-Search.org API. Please visit [EAN-Search.org]https://www.ean-search.org/) for more information.
+This library uses the EAN-Search.org API. Please visit [EAN-Search.org](https://www.ean-search.org/) for more information.
 
