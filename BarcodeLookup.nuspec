@@ -1,0 +1,12 @@
+<package>
+  <metadata>
+    <id>BarcodeLookup</id>
+    <version>1.0.0</version>
+    <authors>Jan Willamowius</authors>
+    <owners>Relaxed Communications GmbH</owners>
+    <description>A C# library for EAN and ISBN lookups</description>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/eansearch/csharp-barcode-lookup</projectUrl>
+    <tags>UPC GTIN EAN ISBN API Barcode Lookup Validation</tags>
+  </metadata>
+</package>
